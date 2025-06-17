@@ -1,14 +1,22 @@
 body {
     background-color: black;
     color: white;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 90vh
 }
-
-h1 {
-    color: rgb(100, 211, 255);
+.center {
+    display: flex;
+    flex-direction: column;
     text-align: center;
+    justify-content: center;
+    height: 100%
 }
-
-ul {
-    list-style-position: inside;
+p {
+    margin: 0;
+}
+a {
+  color: white;
+  text-decoration: none;
+  
 }
