@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    font-family: monospace;
+    font-size: large;
+
+}
+.bigdiv {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    /* border: solid white; */
+    
+}
+.sideboxes {
+    display: flex;
+    /* border: solid blue; */
+    align-items: stretch;
+}
+.sidebox {
+    display: flex;
+    flex-basis: auto;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    /* border: solid yellow; */
+    width: 31ch;
+}
+.topfivesongs {
+    max-width: 70ch;
+}
+p {
+    margin: 0;
+}
+a {
+    color: white;
+    /* text-decoration: none; */
+}
+.marquee {
+    justify-items: center;
+    margin: 20px;
+}
+.starred::marker {
+    content: "★ ";
+    /* color: yellow; */
+}
+.bigStarred::marker {
+    content: "★ ";
+    color: yellow;
+}
