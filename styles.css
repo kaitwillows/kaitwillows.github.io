@@ -17,13 +17,13 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    align-self: flex-end;
     height: 100%;
-    /* border: solid white; */
+    /* margin-top: 1px */
     
 }
 .sideboxes {
     display: flex;
-    /* border: solid blue; */
     align-items: stretch;
 }
 .sidebox {
