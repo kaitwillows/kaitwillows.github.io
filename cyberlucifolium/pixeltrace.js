@@ -4,6 +4,17 @@
 // for your own projects and whatnot, so long as it's not for hate
 //
 
+const sound = new Audio("https://downloads.selfsynthesized.net/releases/2025-09-01_cyberlucifolium/cyberlucifolium.mp3");
+let play = false
+window.addEventListener("click", () => {
+  if (sound.paused) {
+    sound.play();
+    play = true
+  } else {
+    sound.pause();
+    // play = false
+  }
+});
 
 const canvas = document.getElementById('myCanvas');
 const ctx = canvas.getContext('2d');
@@ -117,7 +128,6 @@ function movePixl() {
 
   if (find3dDistance(pixl, points[pixlTargetNumber]) < minimumDistance) {
     pixlTargetNumber++;
-    console.log(pixlTargetNumber)
     if (pixlTargetNumber >= points.length) {
       newPoint = {x: 0*boxScale, y: 0*boxScale, z: 2.5*boxScale}
       pixlTargetNumber = 1;
@@ -134,16 +144,13 @@ const fps = 10;
 const interval = 1000/fps;
 
 for (let point of points) {
-  point2d = projectPoint(point);
-  ctx.fillRect(
-    point2d.x,
-    point2d.y,
-    drawScale, 
-    drawScale
-  );
   rotatePoint(point, initialRotation); 
 }
 function draw(timestamp) {
+  if (!play) {
+    requestAnimationFrame(draw);
+    return
+  }
 
   if (lineSpeed < 300) {
     lineSpeed += 0.30;
