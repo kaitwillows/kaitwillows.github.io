@@ -18,6 +18,7 @@ window.addEventListener("click", () => {
 
 const canvas = document.getElementById('myCanvas');
 const ctx = canvas.getContext('2d');
+ctx.font = "italic lighter 20px serif";
 
 canvasSize = 512;
 const drawScale = 3; // so a 128 canvas, projected to 512 (i think idk)
@@ -146,8 +147,22 @@ const interval = 1000/fps;
 for (let point of points) {
   rotatePoint(point, initialRotation); 
 }
+chance = 0.0005
+ctx.fillText(
+  "click to play", 
+  (Math.random() * (413 - 0) + 0),
+  (Math.random() * (508 - 20) + 20)
+);
 function draw(timestamp) {
   if (!play) {
+    if (Math.random() < chance) {
+      chance += 0.0005
+      ctx.fillText(
+        "click to play", 
+        (Math.random() * (512 + 98) - 98),
+        (Math.random() * 524)
+      );
+    }
     requestAnimationFrame(draw);
     return
   }
