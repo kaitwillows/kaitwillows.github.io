@@ -39,3 +39,18 @@ a {
     padding-right: 50px;
     /* margin: 20px; */
 }
+.parksville-card {
+    background-image: linear-gradient(to right, rgb(151, 111, 0), rgb(0, 0, 0),rgb(0, 0, 0), rgb(87, 0, 87));
+    min-height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #000000;
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+    width: clamp(150px, 50vw, 750px);
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
