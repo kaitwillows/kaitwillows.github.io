@@ -6,5 +6,8 @@ tags:
   - "#status"
   - TODO
   - posts
+updated: 2026-04-13T16:48
 ---
 TODO
+
+HOLY SHIT so much has happened its not fair
