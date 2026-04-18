@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "e3add0031863daab",
+    "id": "5050e5f38f5ca308",
     "type": "split",
     "children": [
       {
-        "id": "c18b2a2fb361c668",
+        "id": "eabf65519c542796",
         "type": "tabs",
         "children": [
           {
-            "id": "7f5eeb9b3b92575b",
+            "id": "315bb2069cd22f94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/timeline/2026-04-17.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-17"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6d8a492dffd613d9",
+    "id": "8cf1f43ca0dc07d6",
     "type": "split",
     "children": [
       {
-        "id": "41cb2dbf20383a13",
+        "id": "027456c2de3e784f",
         "type": "tabs",
         "children": [
           {
-            "id": "93ea05822b0e0651",
+            "id": "2da2530a458c8378",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "b22eacc8d06fcd03",
+            "id": "3d3f631234c31680",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "2da7942d4d9edc2b",
+            "id": "f9142b5f2e1e9c2e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "f7bd61c7375d1db8",
+    "id": "a64305400259b7af",
     "type": "split",
     "children": [
       {
-        "id": "a181cc80fbb9f0a5",
+        "id": "e50d8fd31a0c8743",
         "type": "tabs",
         "children": [
           {
-            "id": "40d08b0364f6ff33",
+            "id": "baa50e9e579860fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "124a1722f4cc0e95",
+            "id": "ad7aeaa751a362ae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +116,7 @@
             }
           },
           {
-            "id": "91d3156f26e7021b",
+            "id": "54b306ea1139fd33",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +131,7 @@
             }
           },
           {
-            "id": "3b0d3d734446f1a2",
+            "id": "19737c101e7957a0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,7 +145,7 @@
             }
           },
           {
-            "id": "e73250a04dfe4b90",
+            "id": "229d6e4bbb49e766",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -180,30 +176,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f5eeb9b3b92575b",
-  "lastOpenFiles": [
-    "2026-04-15 2026-04-18 0056.mp3",
-    "2026-04-15 2026-04-18 0054.mp3",
-    "2026-04-15 2026-04-18 0047.mp3",
-    "posts/timeline/2026-04-15.md",
-    "posts/timeline/2026-04-17.md",
-    "posts/timeline/2026-04-13-16-26.md",
-    "posts/timeline/2026-04-11-01-14.md",
-    "posts/timeline/2026-04-09-08-00.md",
-    "posts/timeline/2026-04-09.md",
-    "posts/timeline/2026-04-04-16-50.md",
-    "posts/timeline/2026-04-04.md",
-    "posts/timeline/2026-04-02.md",
-    "media/20260413-130600.png",
-    "media/Pasted image 20260413162749.png",
-    "media/2026-04-15 2026-04-15 1752.mp3",
-    "posts/timeline/2026-04-14-21-25.md",
-    "pages/todo.md",
-    "index.md",
-    "posts/status/latter half of year 2, winter semester.md",
-    "posts/song obsessions/pinkpanthress - stars.md",
-    "posts/song obsessions/Vylet Pony - ANTONYMPH (Vylet Ponystep Remix).md",
-    "posts/song obsessions/kimj - MY UNNIES.md",
-    "media/literally.png"
-  ]
+  "active": "315bb2069cd22f94",
+  "lastOpenFiles": []
 }
