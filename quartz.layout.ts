@@ -5,12 +5,17 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Backlinks(),
+  ],
   footer: Component.Footer({
     links: {
       "bandcamp": "https://kaitwillows.bandcamp.com/",
-      "youtube": "https://www.youtube.com/@kaitwillows",
-      "spotify": "https://open.spotify.com/artist/4a7HAnfho5VX9sQcbjuJDG?si=TU7algZwQsSvRR9Vts1_gg",
+      "youtube": "https://www.youtube.com/@kaitwillows/",
+      "github": "https://github.com/kaitwillows/",
+      "spotify": "https://open.spotify.com/artist/4a7HAnfho5VX9sQcbjuJDG?si=TU7algZwQsSvRR9Vts1_gg/",
+      "beatleader": "https://beatleader.com/u/76561198865156064/",
+      "contact": "pages/contact",
     },
   }),
 }
@@ -42,7 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    // Component.Graph(),
+    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

@@ -1,9 +1,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://quartz.selfsynthesized.net/</loc>
+    <lastmod>2026-03-27T20:15:00.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.selfsynthesized.net/pages/about-me</loc>
     <lastmod>2026-03-28T03:18:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.selfsynthesized.net/pages/about-this-site</loc>
     <lastmod>2026-03-28T03:14:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.selfsynthesized.net/pages/contact</loc>
+    <lastmod>2026-04-23T06:07:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.selfsynthesized.net/pages/the-music-i-write</loc>
     <lastmod>2026-03-28T18:47:00.000Z</lastmod>
@@ -61,7 +67,4 @@
   </url><url>
     <loc>https://quartz.selfsynthesized.net/songObsessions/pinkpanthress---stars</loc>
     <lastmod>2026-04-13T22:47:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.selfsynthesized.net/</loc>
-    <lastmod>2026-03-27T20:15:00.000Z</lastmod>
   </url></urlset>

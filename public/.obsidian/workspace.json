@@ -65,16 +65,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "pages/todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "todo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,34 +233,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "43c910a460f17085",
+  "active": "fd1467dea55e57b3",
   "lastOpenFiles": [
-    "pages/todo.md",
+    "pages/myTags.md",
     "index.md",
+    "pages/contact.md",
+    "pages/todo.md",
     "pages/things i want to make.md",
     "Untitled.md",
     "pages/the music i write.md",
     "pages/about this site.md",
     "pages/about me.md",
-    "posts/2026-04-18-16-37-25.md",
+    "timeline/2026-04-18-16-37-25.md",
     "posts/unsorted/30 day daily practice assignment.md",
-    "posts/2026-04-17.md",
-    "posts/2026-04-16-23-46.md",
-    "posts/2026-04-15.md",
-    "posts/2026-04-13-16-26.md",
-    "posts/2026-04-11-01-14.md",
-    "posts/2026-04-09-08-00.md",
-    "posts/2026-04-09.md",
-    "posts/2026-04-04-16-50.md",
-    "posts/2026-04-04.md",
-    "posts/2026-04-02.md",
+    "timeline/2026-04-17.md",
+    "timeline/2026-04-16-23-46.md",
+    "timeline/2026-04-15.md",
+    "timeline/2026-04-13-16-26.md",
+    "timeline/2026-04-11-01-14.md",
+    "timeline/2026-04-09-08-00.md",
+    "timeline/2026-04-09.md",
+    "timeline/2026-04-04-16-50.md",
+    "timeline/2026-04-04.md",
+    "timeline/2026-04-02.md",
     "songObsessions/Vylet Pony - ANTONYMPH (Vylet Ponystep Remix).md",
     "songObsessions/pinkpanthress - stars.md",
     "songObsessions/passangerprincess - puppy 4ever.md",
     "songObsessions/kimj - MY UNNIES.md",
     "songObsessions/Camellia - Newspapers for Magicians.md",
-    "todo.md",
-    "templates/default.md",
     "media/2026-04-15 2026-04-18 0056.mp3",
     "media/2026-04-15 2026-04-18 0054.mp3",
     "media/2026-04-15 2026-04-18 0047.mp3",
