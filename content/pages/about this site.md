@@ -5,6 +5,7 @@ modified: 2026-03-29T08:59
 tags:
   - pages
   - creating
+updated: 2026-04-22T23:06
 ---
 hihi, today is march 27, 2026, and i just found out about quartz. i genuinely do not know how to use it, but i'm going to do my best
 
@@ -19,15 +20,3 @@ i started working on this website march 27, 2026
 
 
 ***
-# todo list (for me)
-ignore all this, idk if any of it will make sense
-- [ ] add daily practice page for crwt
-- [ ] "posts/timeline" page? or index? (and start posting to it lmao)
-	- for blogs / small blogs
-	- things i think are cool?
-- [ ] music archive / timeline shit
-- [ ] collections?
-	- [ ] hard images
-	- [ ] videos videos videos
-- [ ] "what i'm doing now" page
-- [ ] 
