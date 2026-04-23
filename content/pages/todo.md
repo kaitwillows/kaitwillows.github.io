@@ -1,6 +1,6 @@
 ---
 created: 2026-04-13T16:48
-updated: 2026-04-22T23:06
+updated: 2026-04-22T23:47
 tags:
   - TODO
 ---
@@ -9,6 +9,7 @@ yeah we gotta make updated not updated. theres so many things that theoretically
 
 # todo list (for me)
 ignore all this, idk if any of it will make sense
+- [ ] make the "[[tags/timeline]]" posts actually look like a twitter feed somehow
 - [ ] add daily practice page for crwt
 - [ ] "posts/timeline" page? or index? (and start posting to it lmao)
 	- for blogs / small blogs

@@ -8,8 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "bandcamp": "https://kaitwillows.bandcamp.com/",
+      "youtube": "https://www.youtube.com/@kaitwillows",
+      "spotify": "https://open.spotify.com/artist/4a7HAnfho5VX9sQcbjuJDG?si=TU7algZwQsSvRR9Vts1_gg",
     },
   }),
 }
@@ -41,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

@@ -37,16 +37,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/things i want to make.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "things i want to make"
+              "title": "index"
+            }
+          },
+          {
+            "id": "d9730322b4314f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "43c910a460f17085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,12 +233,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "fd1467dea55e57b3",
+  "active": "43c910a460f17085",
   "lastOpenFiles": [
-    "Untitled.md",
-    "pages/things i want to make.md",
-    "pages/the music i write.md",
     "pages/todo.md",
+    "index.md",
+    "pages/things i want to make.md",
+    "Untitled.md",
+    "pages/the music i write.md",
     "pages/about this site.md",
     "pages/about me.md",
     "timeline/2026-04-18-16-37-25.md",
@@ -232,7 +261,6 @@
     "songObsessions/Camellia - Newspapers for Magicians.md",
     "todo.md",
     "templates/default.md",
-    "index.md",
     "media/2026-04-15 2026-04-18 0056.mp3",
     "media/2026-04-15 2026-04-18 0054.mp3",
     "media/2026-04-15 2026-04-18 0047.mp3",
