@@ -35,14 +35,12 @@
             "id": "fd1467dea55e57b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "timeline/2026-04-25-22-43.md",
-                "mode": "source",
-                "source": false
+                "file": "media/2026-04-25-1 shits on my tv speakers btw.mp3"
               },
-              "icon": "lucide-file",
-              "title": "2026-04-25-22-43"
+              "icon": "lucide-file-audio",
+              "title": "2026-04-25-1 shits on my tv speakers btw"
             }
           },
           {
@@ -233,12 +231,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "fd1467dea55e57b3",
+  "active": "93ea05822b0e0651",
   "lastOpenFiles": [
-    "2026-04-25-1 shits on my tv speakers btw.mp3",
-    "2026-04-25 OH.mp3",
-    "timeline/2026-04-24-12-05.md",
+    "pages/contact.md",
     "timeline/2026-04-25-22-43.md",
+    "media/2026-04-25 could be miyokicoded if you squint.mp3",
+    "media/2026-04-25-1 shits on my tv speakers btw.mp3",
+    "media/2026-04-25 OH.mp3",
+    "timeline/2026-04-24-12-05.md",
     "media/Pasted image 20260423012646.png",
     "media/2026-04-24 2026-04-24 1204.mp3",
     "timeline/2026-04-23-01-19.md",
@@ -262,7 +262,6 @@
     "media/2026-04-15 2026-04-23 0035 toned kick ott.flac",
     "index.md",
     "pages/myTags.md",
-    "pages/contact.md",
     "pages/todo.md",
     "pages/things i want to make.md",
     "Untitled.md",
@@ -278,8 +277,6 @@
     "timeline/2026-04-09.md",
     "timeline/2026-04-04-16-50.md",
     "timeline/2026-04-04.md",
-    "media/2026-04-15 2026-04-18 0056.mp3",
-    "media/2026-04-15 2026-04-18 0054.mp3",
     "media/20260413-130600.png"
   ]
 }
