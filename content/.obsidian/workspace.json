@@ -35,12 +35,14 @@
             "id": "fd1467dea55e57b3",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "media/2026-04-25-1 shits on my tv speakers btw.mp3"
+                "file": "songObsessions/xaev - we respawn.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-audio",
-              "title": "2026-04-25-1 shits on my tv speakers btw"
+              "icon": "lucide-file",
+              "title": "xaev - we respawn"
             }
           },
           {
@@ -231,12 +233,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "93ea05822b0e0651",
+  "active": "fd1467dea55e57b3",
   "lastOpenFiles": [
+    "timeline/2026-04-27.md",
+    "songObsessions/xaev - we respawn.md",
+    "media/2026-04-25-1 shits on my tv speakers btw.mp3",
     "pages/contact.md",
     "timeline/2026-04-25-22-43.md",
     "media/2026-04-25 could be miyokicoded if you squint.mp3",
-    "media/2026-04-25-1 shits on my tv speakers btw.mp3",
     "media/2026-04-25 OH.mp3",
     "timeline/2026-04-24-12-05.md",
     "media/Pasted image 20260423012646.png",
@@ -276,7 +280,6 @@
     "timeline/2026-04-09-08-00.md",
     "timeline/2026-04-09.md",
     "timeline/2026-04-04-16-50.md",
-    "timeline/2026-04-04.md",
     "media/20260413-130600.png"
   ]
 }
