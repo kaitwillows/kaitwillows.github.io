@@ -1,6 +1,0 @@
----
-created:
-modified:
-title:
-tags:
----
