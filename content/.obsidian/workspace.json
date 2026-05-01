@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline/2026-04-30-23-00.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-30-23-00"
+              "title": "index"
             }
           },
           {
@@ -263,6 +263,7 @@
   },
   "active": "9de0c8364c9e9476",
   "lastOpenFiles": [
+    "timeline/2026-04-30-23-00.md",
     "pages/music roadmap.md",
     "songs/Untitled.md",
     "songs",
@@ -273,7 +274,6 @@
     "timeline/2026-04-27-17-18.md",
     "timeline/2026-04-28-19-00.md",
     "timeline/2026-04-28-23-34.md",
-    "timeline/2026-04-30-23-00.md",
     "media/2026-04-30 small 4 mixed.mp3",
     "2026-04-30 small 4 mixed.flac",
     "media/20260413-130600.png",
