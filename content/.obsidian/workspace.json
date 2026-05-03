@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c18b2a2fb361c668",
+        "id": "c05d4931a40d3c8b",
         "type": "tabs",
         "children": [
           {
-            "id": "7f5eeb9b3b92575b",
+            "id": "b949b211fd30bab9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "pages/todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "media/Pasted image 20260503135501.png"
               },
-              "icon": "lucide-file",
-              "title": "todo"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260503135501"
             }
           },
           {
-            "id": "e6149dc97d3a0fb2",
+            "id": "9e043b3922c036ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,65 +32,8 @@
               "icon": "lucide-file",
               "title": "2026-04-30-23-00"
             }
-          },
-          {
-            "id": "cc566d6ce3b43ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "timeline/2026-04-25-22-43.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-25-22-43"
-            }
-          },
-          {
-            "id": "9de0c8364c9e9476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "d9730322b4314f60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "43c910a460f17085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#song/smallForYou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,53 +192,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "9de0c8364c9e9476",
+  "active": "93ea05822b0e0651",
   "lastOpenFiles": [
+    "media/Pasted image 20260503132947.png",
     "timeline/2026-04-30-23-00.md",
+    "timeline/2026-05-03-13-19.md",
+    "timeline/2026-05-03-13-28.md",
+    "media/Pasted image 20260503135501.png",
+    "media/Pasted image 20260503135312.png",
+    "media/Pasted image 20260503135205.png",
+    "media/Pasted image 20260503134719.png",
+    "pages/todo.md",
+    "pages/about this site.md",
+    "pages/about me.md",
+    "media/Pasted image 20260503133350.png",
+    "media/Pasted image 20260503133112.png",
+    "media/Pasted image 20260503133042.png",
+    "index.md",
     "pages/music roadmap.md",
-    "songs/Untitled.md",
-    "songs",
-    "songs.md",
-    "timeline/2026-04-25-22-43.md",
+    "pages/stream.md",
+    "pages/contact.md",
     "pages/things i want to make.md",
+    "pages/the music i write.md",
+    "songObsessions/xaev - we respawn.md",
+    "media/2026-04-30 small 4 mixed.mp3",
+    "songObsessions/Vylet Pony - Gonarch's Lair (the whole mixtape).md",
+    "songObsessions/Vylet Pony - ANTONYMPH (Vylet Ponystep Remix).md",
+    "songObsessions/pinkpanthress - stars.md",
+    "songObsessions/passangerprincess - puppy 4ever.md",
+    "songObsessions/Camellia - Newspapers for Magicians.md",
+    "songObsessions/kimj - MY UNNIES.md",
+    "songObsessions/Milkoi - a barley-scented village.md",
+    "timeline/2026-04-28-23-34.md",
+    "timeline/2026-04-28-19-00.md",
+    "media/IMG_20260427_171352_284.jpg",
+    "timeline/2026-04-25-22-43.md",
     "timeline/2026-04-27-17-15.md",
     "timeline/2026-04-27-17-18.md",
-    "timeline/2026-04-28-19-00.md",
-    "timeline/2026-04-28-23-34.md",
-    "media/2026-04-30 small 4 mixed.mp3",
-    "2026-04-30 small 4 mixed.flac",
-    "media/20260413-130600.png",
-    "songObsessions/passangerprincess - puppy 4ever.md",
-    "timeline/2026-04-04.md",
-    "timeline/2026-04-02.md",
-    "timeline/2026-04-24-12-05.md",
-    "timeline/2026-04-23-01-19.md",
-    "timeline/2026-04-23-01-11.md",
-    "timeline/2026-04-18-16-37-25.md",
-    "timeline/2026-04-17.md",
-    "timeline/2026-04-16-23-46.md",
-    "timeline/2026-04-15.md",
-    "timeline/2026-04-13-16-26.md",
-    "timeline/2026-04-11-01-14.md",
-    "timeline/2026-04-09-08-00.md",
-    "timeline/2026-04-09.md",
-    "timeline/2026-04-04-16-50.md",
-    "media/IMG_20260427_171352_284.jpg",
-    "media/Pasted image 20260423012646.png",
-    "media/Pasted image 20260423012622.png",
-    "media/Pasted image 20260423012541.png",
-    "media/Pasted image 20260423011803.png",
-    "media/Pasted image 20260413162749.png",
-    "index.md",
-    "tags",
-    "media/2026-04-29 small 3 mixed.mp3",
     "media/2026-04-28 miyoki thing.mp3",
+    "media/2026-04-29 small 3 mixed.mp3",
     "media/2026-04-27 small 2 mixed.mp3",
     "media/2026-04-25-1 shits on my tv speakers btw.mp3",
     "media/2026-04-25 could be miyokicoded if you squint.mp3",
     "media/2026-04-25 OH.mp3",
-    "Pasted image 20260423012455.png",
-    "Pasted image 20260423012428.png",
-    "Pasted image 20260423012332.png"
+    "media/Pasted image 20260423012646.png",
+    "media/2026-04-24 2026-04-24 1204.mp3",
+    "media/2026-04-15 2026-04-23 0034 toned kick.flac",
+    "media/2026-04-23_resample housr maybe 2026-04-23 0110 kaitlyn cant drums.mp3"
   ]
 }

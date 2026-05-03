@@ -1,6 +1,6 @@
 ---
 created: 2026-04-13T16:48
-updated: 2026-04-23T00:02
+updated: 2026-05-01T17:23
 tags:
   - TODO
 ---
@@ -9,6 +9,7 @@ yeah we gotta make updated not updated. theres so many things that theoretically
 
 # todo list (for me)
 ignore all this, idk if any of it will make sense
+- [ ] publish nixos dotfiles
 - [ ] ==get old big music folder back==
 - [ ] make the "[[tags/posts]]" posts actually look like a twitter feed somehow
 - [ ] add daily practice page for crwt

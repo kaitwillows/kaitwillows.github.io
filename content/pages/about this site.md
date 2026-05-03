@@ -5,18 +5,14 @@ modified: 2026-03-29T08:59
 tags:
   - pages
   - creating
-updated: 2026-04-22T23:06
+updated: 2026-05-01T17:31
 ---
-hihi, today is march 27, 2026, and i just found out about quartz. i genuinely do not know how to use it, but i'm going to do my best
 
 
-hihi, i'm trying out [quartz](https://github.com/jackyzha0/quartz) as a replacement for [my old website](https://selfsynthesized.net). this site will probably be very messy / disorganized at first. 
+- \#[[tags/pages]]
 
-until i figure out how to use quartz better, i'll use this as a table of contents, *probably* going by top-level folder, then an index of files???? idfk:
+- \#[[tags/posts]] are my "bootleg microblogs / miscellaneous dumps of whatever" :3
+- \#[[tags/blips]] are little pieces of music / sounds i've made :D
 
-i started working on this website march 27, 2026
-
-
-
-
-***
+	- [[music roadmap]] should be everything in-progress or planned :)
+- \#[[tags/songObsessions]] are songs i'm obsessed with :o
