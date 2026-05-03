@@ -9,7 +9,7 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "pages/todo.md": "2efe80b91967f1c2a784a6e38a9ecda261dca81d055c21742b5b28479a047481",
-    "pages/about this site.md": "6b6b1b8a260fc180c447a1a54337486dce8c644667775e7ac7f31b77306dbd1f",
+    "pages/about this site.md": "072cf34ba290275cd38d9f0b4f540e64a63d89894a0a5df22e28e4869d211a53",
     "pages/things i want to make.md": "78ca8003025b9307a01d54c3181eee25b7943c6aee6a9769d040b3077eae9d13",
     "timeline/2026-04-02.md": "e151383231469080da9876ee797c3a24fb0006e8a1196ba279b4a3a16e4890c2",
     "timeline/2026-04-04-16-50.md": "d57649d2f8da8a2af68d8613f934820cbe195d38941fb81b83f4737d4a078410",
@@ -44,6 +44,7 @@
     "pages/about me.md": "f4c83d20be6fbc691448d008d882389b5d30f0bbb820963f3e0ae4ec348af7d9",
     "pages/stream.md": "843c77b2126c3c4618cc504ef69c17947dae450418965a11f722cd3e9aa04004",
     "timeline/2026-05-03-13-19.md": "8d0a5a57bdb84e292981f90d1f8e77f7defcf41ff1711d81e15ed65fb27de172",
-    "timeline/2026-05-03-13-28.md": "f75f68f88acde2431227a97ddf91e12d981d188d3ced5de16ec1001c5f6024ef"
+    "timeline/2026-05-03-13-28.md": "f75f68f88acde2431227a97ddf91e12d981d188d3ced5de16ec1001c5f6024ef",
+    "pages/the music i write.md": "6a03e0f39ac2a3d32b0ef343aa4fa5d4bcfc60b91325d93be07adbbc8192e016"
   }
 }
