@@ -2,9 +2,10 @@
 title: kimj - MY UNNIES
 tags:
   - songObsessions
+  - posts
 created: 2026-03-27T21:00
 modified: 2026-03-29T08:56
-updated: 2026-04-22T23:04
+updated: 2026-05-05T23:34
 ---
 ![kimj - MY UNNIES](https://youtu.be/0E1cd5zbwAk?si=ro6lP4mA4bmd1Oon)
 

@@ -1,8 +1,9 @@
 ---
 created: 2026-04-23T01:39
-updated: 2026-04-23T01:46
+updated: 2026-05-05T23:34
 tags:
   - songObsessions
+  - posts
 ---
 ![](https://youtu.be/Kg_JKSn5znc?si=GhlXSTMbxhRc7qrm)
 
