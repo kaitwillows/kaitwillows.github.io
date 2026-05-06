@@ -11,10 +11,14 @@
             "id": "315bb2069cd22f94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CODE_OF_CONDUCT.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CODE_OF_CONDUCT"
             }
           }
         ]
@@ -176,6 +180,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "315bb2069cd22f94",
-  "lastOpenFiles": []
+  "active": "2da2530a458c8378",
+  "lastOpenFiles": [
+    "docs/CNAME",
+    "docs/timeline/2026-05-05-20-54-og-image.webp",
+    "docs/timeline/2026-05-03-13-28-og-image.webp",
+    "docs/timeline/2026-05-03-13-19-og-image.webp",
+    "docs/timeline/2026-04-30-23-00-og-image.webp",
+    "docs/timeline/2026-04-28-23-34-og-image.webp",
+    "docs/timeline/2026-04-28-19-00-og-image.webp",
+    "docs/timeline/2026-04-27-17-18-og-image.webp",
+    "docs/timeline/2026-04-27-17-15-og-image.webp",
+    "docs/timeline/2026-04-25-22-43-og-image.webp",
+    "docs/timeline/2026-04-24-12-05-og-image.webp",
+    "docs/media/2026-05-05-keshi-get-it-cover-1.mp3",
+    "docs/media/2026-04-30-small-4-mixed.mp3",
+    "docs/media/2026-04-29-small-3-mixed.mp3",
+    "docs/media/2026-04-28-miyoki-thing.mp3",
+    "docs/media/2026-04-27-small-2-mixed.mp3",
+    "docs/media/2026-04-25-1-shits-on-my-tv-speakers-btw.mp3",
+    "docs/media/2026-04-25-could-be-miyokicoded-if-you-squint.mp3",
+    "docs/media/2026-04-25-OH.mp3",
+    "docs/media/2026-04-24-2026-04-24-1204.mp3",
+    "docs/media/2026-04-23_resample-housr-maybe-2026-04-23-0110-kaitlyn-cant-drums.mp3"
+  ]
 }
