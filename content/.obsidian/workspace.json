@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline/2026-05-16-13-20.md",
+                "file": "timeline/2026-05-19-23-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-16-13-20"
+              "title": "2026-05-19-23-22"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#song/smallForYou",
+                "query": "tag:song/getItCover",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,12 +197,14 @@
   },
   "active": "4637c93e55b62bec",
   "lastOpenFiles": [
+    "timeline/2026-05-05-20-54.md",
+    "timeline/2026-05-19-23-22.md",
+    "timeline/2026-05-16-13-20.md",
+    "timeline/2026-05-07-23-39.md",
+    "2026-05-19 keshi get it ableton version 1.mp3",
     "2026-05-05 kick slightly better.flac",
     "index.md",
-    "timeline/2026-05-16-13-20.md",
     "pages/about this site.md",
-    "timeline/2026-05-05-20-54.md",
-    "timeline/2026-05-07-23-39.md",
     "media/keshi 3.mp3",
     "songObsessions/inabakumori - Lagtrain ラグトレイン and others.md",
     "songObsessions/xaev - we respawn.md",
@@ -232,15 +235,12 @@
     "pages/contact.md",
     "pages/things i want to make.md",
     "media/2026-04-30 small 4 mixed.mp3",
-    "timeline/2026-04-28-23-34.md",
     "media/IMG_20260427_171352_284.jpg",
     "media/2026-04-28 miyoki thing.mp3",
     "media/2026-04-29 small 3 mixed.mp3",
     "media/2026-04-27 small 2 mixed.mp3",
     "media/2026-04-25-1 shits on my tv speakers btw.mp3",
     "media/2026-04-25 could be miyokicoded if you squint.mp3",
-    "media/2026-04-25 OH.mp3",
-    "media/Pasted image 20260423012646.png",
-    "media/2026-04-24 2026-04-24 1204.mp3"
+    "media/Pasted image 20260423012646.png"
   ]
 }
