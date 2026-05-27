@@ -8,8 +8,8 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "index.md": "63050591e144d495397ce65801f2c52209ed06765f11a63aa8f7a9f0ea3f4c3f",
-    "posts/2026-04-02.md": "f85f5758ca8061a4fca0fd7bb64fc4163141abe70974be9ae378415f13cbc6aa",
+    "index.md": "a2544db0a16b8f58de8049409ebe2c63a5403374f766edbbb5978f64c1666590",
+    "posts/2026-04-02.md": "39054afd84310fb365b21d3dd84b7b78fd85acfe7f2550e87a66ebef912209de",
     "posts/2026-04-04-16-50.md": "6e9c498236e33a7642b4aeb8a74c5682037a9aed05f07fb1f1d3614b457f3724",
     "posts/2026-04-04.md": "c0cfd81f809b1e5fe896476172324606120a8d0add649af81db250f091f9a830",
     "posts/2026-04-09-08-00.md": "5841909025085725432d9fee25c8eef6277ced9df013f5c805cb662a7d6c11c2",
@@ -47,6 +47,8 @@
     "posts/Vylet Pony - ANTONYMPH (Vylet Ponystep Remix).md": "8cb3abd8d09bbcd13b2010e5de3e567c8c9962fead981c2c5a9ecb0ace635552",
     "posts/Vylet Pony - Gonarch's Lair (the whole mixtape).md": "4d602f979975bc77a6bc7041385a1dddf076379391debd15264784acc4826653",
     "pages/roadmap.md": "2eae0d1021883b13c526b510a9b84884f672abeb8701350df8cc3f864755f029",
-    "pages/me and my site.md": "acdc853fe3bc30f8309b3394bf42ab3109db53388cfd40294e355cfe1f822bb5"
+    "pages/me and my site.md": "acdc853fe3bc30f8309b3394bf42ab3109db53388cfd40294e355cfe1f822bb5",
+    "posts/cyberlucifolium.md": "ddccb2ca882d84a7b95ea7f173d4e371ef1e48077c1780910ed50381a39b44f1",
+    "media/navigation.md": "8e545613a0aa762caa7b8c35cb6ddb22d00af1a903b2cb9f63be4eb3cd4c5861"
   }
 }
