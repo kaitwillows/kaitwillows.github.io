@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "739e3d212e08446e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/cyberlucifolium.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "cyberlucifolium"
+            }
+          },
+          {
             "id": "df764bdc75882ccf",
             "type": "leaf",
             "state": {
@@ -20,8 +34,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "94c2f1d3b8999607",
+            "type": "leaf",
+            "state": {
+              "type": "audio",
+              "state": {
+                "file": "media/2025-10-01_parksville/demos/1.0 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.mp3"
+              },
+              "icon": "lucide-file-audio",
+              "title": "1.0 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,30 +210,32 @@
   },
   "active": "df764bdc75882ccf",
   "lastOpenFiles": [
+    "posts/parksville.md",
+    "media/Pasted image 20260527002858.png",
+    "media/2025-10-01_parksville/visual/uhh.mkv",
+    "media/2025-10-01_parksville/demos/1.0 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.mp3",
+    "media/2025-10-01_parksville/demos/prelim master1.wav",
+    "media/2025-10-01_parksville/stems/a 1-Group.mp3",
+    "media/2025-10-01_parksville/cover 3k.png",
+    "media/2025-10-01_parksville/stems/vocals.flac",
+    "media/2025-10-01_parksville/stems/vocalChops.flac",
+    "media/2025-10-01_parksville/stems/piano.flac",
+    "media/2025-10-01_parksville/stems/drums.flac",
+    "media/2025-10-01_parksville/stems/bass.flac",
+    "posts/cyberlucifolium.md",
+    "media/2025-10-01_parksville/smaller cover.jpg",
+    "media/2025-10-01_parksville/visual.mp4",
+    "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_Roughness.png",
+    "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_NormalGL.png",
+    "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_NormalDX.png",
+    "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_Displacement.png",
+    "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_Color.png",
+    "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001.png",
+    "media/2025-10-01_parksville/cover wide (4k).png",
+    "index.md",
     "posts/2026-04-04.md",
     "media/navigation.md",
-    "index.md",
-    "Untitled",
-    "private",
-    "posts/cyberlucifolium.md",
-    "media/2025-09-01_cyberlucifolium/demos/cyberlucifolium (master1) (EVIL version).mp3",
-    "media/2025-09-01_cyberlucifolium/demos/trailer2 is that gonna be better.wav",
-    "media/2025-09-01_cyberlucifolium/cover.png",
-    "media/2025-09-01_cyberlucifolium/visualizer/visuializer.mov",
-    "media/2025-09-01_cyberlucifolium/cyberlucifolium.flac",
     "posts/2026-04-23-01-11.md",
-    "media/2025-09-01_cyberlucifolium/visualizer/source code/pixltrace.js",
-    "media/2025-09-01_cyberlucifolium/visualizer/source code/index.html",
-    "media/2025-09-01_cyberlucifolium/visualizer/trailer.mp4",
-    "media/2025-09-01_cyberlucifolium/visualizer/source code",
-    "media/2025-09-01_cyberlucifolium/extra covers/5000x5000.png",
-    "media/2025-09-01_cyberlucifolium/extra covers/3840x2160.png",
-    "media/2025-09-01_cyberlucifolium/extra covers/3000x3000.png",
-    "media/2025-09-01_cyberlucifolium/extra covers/1920x1080.png",
-    "media/2025-09-01_cyberlucifolium/extra covers/5000x5000.png",
-    "media/2025-09-01_cyberlucifolium/extra covers/3840x2160.png",
-    "media/2025-09-01_cyberlucifolium/extra covers/3000x3000.png",
-    "media/2025-09-01_cyberlucifolium/extra covers/1920x1080.png",
     "posts/2026-04-18-16-37-25.md",
     "posts/2026-04-02.md",
     "pages/me and my site.md",
@@ -225,8 +254,6 @@
     "posts/2026-05-19-23-22.md",
     "posts/2026-05-16-13-20.md",
     "posts/2026-05-07-23-39.md",
-    "posts/2026-05-07-18-12.md",
-    "posts/2026-05-05-20-54.md",
-    "posts/2026-05-03-13-19.md"
+    "posts/2026-05-07-18-12.md"
   ]
 }
