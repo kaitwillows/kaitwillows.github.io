@@ -6,7 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Backlinks(),
+    // Component.Backlinks(),
   ],
   footer: Component.Footer({
     links: {
@@ -50,9 +50,9 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     // Component.DesktopOnly(Component.TableOfContents()),
-    // Component.Backlinks(),
     Component.CustomFeed(),
     Component.Graph(),
+    Component.Backlinks(),
   ],
 }
 
@@ -76,5 +76,6 @@ export const defaultListPageLayout: PageLayout = {
   right: [
     Component.CustomFeed(),
     Component.Graph(),
+    Component.Backlinks(),
   ],
 }
