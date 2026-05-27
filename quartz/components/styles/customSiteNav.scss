@@ -1,0 +1,144 @@
+@use "../../styles/variables.scss" as *;
+
+@media all and ($mobile) {
+  .page > #quartz-body {
+    & > :not(.sidebar.left:has(.site-nav)) {
+      transition: transform 300ms ease-in-out;
+    }
+
+    &.lock-scroll > :not(.sidebar.left:has(.site-nav)) {
+      transform: translateX(100dvw);
+      transition: transform 300ms ease-in-out;
+    }
+
+    .sidebar.left:has(.site-nav) {
+      box-sizing: border-box;
+      position: sticky;
+      background-color: var(--light);
+      padding: 1rem 0 1rem 0;
+      margin: 0;
+    }
+
+    .hide-until-loaded ~ .site-nav-content {
+      display: none;
+    }
+  }
+}
+
+.site-nav {
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+  min-height: 1.2rem;
+  flex: 0 1 auto;
+
+  @media all and ($mobile) {
+    order: -1;
+    height: initial;
+    overflow: hidden;
+    flex-shrink: 0;
+    align-self: flex-start;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  button.mobile-site-nav {
+    display: none;
+  }
+
+  @media all and ($mobile) {
+    button.mobile-site-nav {
+      display: flex;
+    }
+  }
+}
+
+button.mobile-site-nav {
+  background-color: transparent;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  padding: 0;
+  color: var(--dark);
+  display: flex;
+  align-items: center;
+}
+
+.site-nav-content {
+  overflow: hidden;
+  overflow-y: auto;
+  margin-top: 0.5rem;
+
+  @media all and not ($mobile) {
+    margin-top: 0;
+  }
+
+  .custom-site-nav {
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+  }
+}
+
+.site-nav {
+  @media all and ($mobile) {
+    &.collapsed {
+      flex: 0 0 34px;
+
+      & > .site-nav-content {
+        transform: translateX(-100vw);
+        visibility: hidden;
+      }
+    }
+
+    &:not(.collapsed) {
+      flex: 0 0 34px;
+
+      & > .site-nav-content {
+        transform: translateX(0);
+        visibility: visible;
+      }
+    }
+
+    .site-nav-content {
+      box-sizing: border-box;
+      z-index: 100;
+      position: absolute;
+      top: 0;
+      left: 0;
+      margin-top: 0;
+      background-color: var(--light);
+      max-width: 100vw;
+      width: 100vw;
+      transform: translateX(-100vw);
+      transition:
+        transform 200ms ease,
+        visibility 200ms ease;
+      overflow: hidden;
+      padding: 4rem 0 2rem 0;
+      height: 100dvh;
+      max-height: 100dvh;
+      visibility: hidden;
+    }
+
+    .mobile-site-nav {
+      margin: 0;
+      padding: 5px;
+      z-index: 101;
+
+      .lucide-menu {
+        stroke: var(--darkgray);
+      }
+    }
+  }
+}
+
+.mobile-no-scroll {
+  @media all and ($mobile) {
+    .site-nav-content {
+      overscroll-behavior: contain;
+    }
+  }
+}
