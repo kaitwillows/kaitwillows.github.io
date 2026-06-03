@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/cyberlucifolium.md",
+                "file": "posts/2026-06-01-23-00.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cyberlucifolium"
+              "title": "2026-06-01-23-00"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "the first kaitwillows album (2012)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,16 +195,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "b22eacc8d06fcd03",
+  "active": "df764bdc75882ccf",
   "lastOpenFiles": [
-    "posts/2026-06-01.md",
+    "posts/2026-06-01-11-25.md",
+    "posts/2026-06-01-23-00.md",
+    "posts/cyberlucifolium.md",
+    "posts/the first kaitwillows album (2012).md",
     "media/2026-06-01 crawlspace ver1 demo1.mp3",
     "index.md",
     "test'.md",
-    "posts/cyberlucifolium.md",
     "posts/parksville.md",
     "media/Pasted image 20260527162253.png",
-    "posts/the first kaitwillows album (2012).md",
     "posts/eumidion - small for you (ft. kaitwillows).md",
     "media/Pasted image 20260527002858.png",
     "media/2025-10-01_parksville/visual/uhh.mkv",
