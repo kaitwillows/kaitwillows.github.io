@@ -1,6 +1,6 @@
 ---
 created: 2026-05-27T16:06
-updated: 2026-06-01T11:28
+updated: 2026-06-02T22:44
 title: the first kaitwillows album
 tags:
   - posts
@@ -28,6 +28,7 @@ idk, i want to fill out a tracklist, these might be just mostly title ideas to g
 
 
 - tracklist (tentative)
+	- what do you think of me(?)
 	- 2012
 	- crawlspace
 	- sundress2 
