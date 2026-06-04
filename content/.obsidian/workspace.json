@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/the first kaitwillows album (2012).md",
+                "file": "posts/2026-06-04-13-43.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the first kaitwillows album (2012)"
+              "title": "2026-06-04-13-43"
             }
           }
         ],
@@ -198,6 +198,9 @@
   },
   "active": "94c2f1d3b8999607",
   "lastOpenFiles": [
+    "media/2026-06-04 something i cant remember.mp3",
+    "posts/the first kaitwillows album (2012).md",
+    "posts/2026-06-04-13-43.md",
     "tags/album/2012.md",
     "tags/album",
     "tags",
@@ -207,7 +210,6 @@
     "media/Pasted image 20260603172958.png",
     "posts/2026-06-02-21-54.md",
     "media/2026-06-02 idxinthenameoffriendship transcribe attempt 1.mp3",
-    "posts/the first kaitwillows album (2012).md",
     "posts/2026-06-02-21-28.md",
     "media/Pasted image 20260602213241.png",
     "media/Pasted image 20260602213139.png",
@@ -241,8 +243,6 @@
     "posts/2026-04-25-22-43.md",
     "posts/2026-04-27-17-18.md",
     "pages/site.md",
-    "pages/contact.md",
-    "pages/stream.md",
-    "pages/the music i write.md"
+    "pages/contact.md"
   ]
 }
