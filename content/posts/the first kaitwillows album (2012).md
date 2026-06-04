@@ -1,6 +1,6 @@
 ---
 created: 2026-05-27T16:06
-updated: 2026-06-01T11:28
+updated: 2026-06-04T12:53
 title: the first kaitwillows album
 tags:
   - posts
@@ -28,19 +28,20 @@ idk, i want to fill out a tracklist, these might be just mostly title ideas to g
 
 
 - tracklist (tentative)
+	- ユミ (whatdoyouthinkofme)
 	- 2012
+	- daisies *(30 remake)*
+	- golden fish
+	- sickofmyself
 	- crawlspace
-	- sundress2 
-	- 30 remake - tentative?
-	- devil's advocate / sickofmyself
 	- 2027
 
 - various ideas idk
 	- *intro song*
 	- *soundcloud rapper era* - i just really like keshi get it yeag
 	- rap song spirals / eudaimonia
-	- golden fish
 	- die a child 
+	- sundress2 
 
 - more details:
 	- intro

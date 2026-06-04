@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Distant Motions - Northern Winds.md",
+                "file": "pages/roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distant Motions - Northern Winds"
+              "title": "roadmap"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "the first kaitwillows album (2012)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,12 +196,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "df764bdc75882ccf",
+  "active": "94c2f1d3b8999607",
   "lastOpenFiles": [
+    "tags/album/2012.md",
+    "tags/album",
+    "tags",
+    "pages/roadmap.md",
+    "posts/Distant Motions - Northern Winds.md",
     "media/Pasted image 20260603173407.png",
     "media/Pasted image 20260603172958.png",
     "posts/2026-06-02-21-54.md",
-    "posts/Distant Motions - Northern Winds.md",
     "media/2026-06-02 idxinthenameoffriendship transcribe attempt 1.mp3",
     "posts/the first kaitwillows album (2012).md",
     "posts/2026-06-02-21-28.md",
@@ -224,18 +229,14 @@
     "media/2025-10-01_parksville/cover 3k.png",
     "media/2025-10-01_parksville/stems/vocals.flac",
     "media/2025-10-01_parksville/stems/vocalChops.flac",
-    "media/2025-10-01_parksville/stems/piano.flac",
-    "media/2025-10-01_parksville/stems/drums.flac",
     "media/2025-10-01_parksville/smaller cover.jpg",
     "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_Roughness.png",
-    "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_NormalGL.png",
     "posts/2026-04-04.md",
     "media/navigation.md",
     "posts/2026-04-23-01-11.md",
     "posts/2026-04-18-16-37-25.md",
     "posts/2026-04-02.md",
     "pages/me and my site.md",
-    "pages/roadmap.md",
     "pages/tagsis/index.md",
     "posts/2026-04-25-22-43.md",
     "posts/2026-04-27-17-18.md",
