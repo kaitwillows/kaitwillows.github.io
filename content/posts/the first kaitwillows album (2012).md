@@ -32,11 +32,13 @@ idk, i want to fill out a tracklist, these might be just mostly title ideas to g
 	- 2012
 	- daisies *(30 remake)*
 	- golden fish
+
 	- sickofmyself
 	- crawlspace
 	- 2027
 
 - various ideas idk
+	- irrevocably fucking up my digital footprint? heh, you mean PAWprint? :3
 	- *intro song*
 	- *soundcloud rapper era* - i just really like keshi get it yeag
 	- rap song spirals / eudaimonia
