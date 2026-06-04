@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/roadmap.md",
+                "file": "posts/the first kaitwillows album (2012).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "roadmap"
+              "title": "the first kaitwillows album (2012)"
             }
           },
           {
@@ -198,6 +198,7 @@
   },
   "active": "94c2f1d3b8999607",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "media/2026-06-04 something i cant remember.mp3",
     "posts/the first kaitwillows album (2012).md",
     "posts/2026-06-04-13-43.md",
@@ -210,6 +211,11 @@
     "media/Pasted image 20260603172958.png",
     "posts/2026-06-02-21-54.md",
     "media/2026-06-02 idxinthenameoffriendship transcribe attempt 1.mp3",
+=======
+    "posts/2026-06-02-21-54.md",
+    "media/2026-06-02 idxinthenameoffriendship transcribe attempt 1.mp3",
+    "posts/the first kaitwillows album (2012).md",
+>>>>>>> a2d5fd9dff48da56be398847e403d2d18fccd564
     "posts/2026-06-02-21-28.md",
     "media/Pasted image 20260602213241.png",
     "media/Pasted image 20260602213139.png",
@@ -231,6 +237,11 @@
     "media/2025-10-01_parksville/cover 3k.png",
     "media/2025-10-01_parksville/stems/vocals.flac",
     "media/2025-10-01_parksville/stems/vocalChops.flac",
+<<<<<<< HEAD
+=======
+    "media/2025-10-01_parksville/stems/piano.flac",
+    "media/2025-10-01_parksville/stems/drums.flac",
+>>>>>>> a2d5fd9dff48da56be398847e403d2d18fccd564
     "media/2025-10-01_parksville/smaller cover.jpg",
     "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_Roughness.png",
     "posts/2026-04-04.md",
