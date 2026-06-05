@@ -1,6 +1,6 @@
 ---
 created: 2026-06-03T17:23
-updated: 2026-06-03T17:37
+updated: 2026-06-04T19:39
 tags:
   - posts
   - songHarts
@@ -9,7 +9,7 @@ tags:
 
 ![](https://youtu.be/k6T7PGwpfOA?si=l7XPtT1X21OKaQu7&t=39)
 
-specifically the part at 0:46 made my perked up while studying. 
+specifically the part at 0:46 made my ears perk up while studying. 
 
 idk, i'm all but certain this is human made, since:
 - Lofi Records / Lofi Girl has a ["no AI" policy](https://www.lofigirl.com/ai), and even if they were lying, i assume they would have been called out for it by now (not that i've checked extensively),
