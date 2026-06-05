@@ -1,6 +1,9 @@
 ---
 created: 2026-05-26T21:15
-updated: 2026-05-26T21:57
+updated: 2026-06-04T19:16
+tags:
+  - notes
+  - posts
 ---
 ```md
 

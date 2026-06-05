@@ -8,7 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "index.md": "c48b923f06903e92bc38127d1658d79bee1891f32f35cdc3123c9f0e3900d9e3",
+    "index.md": "17ce68a5812217cf76f3f62b16abc5bde04044acccc310622442c828cff6ef21",
     "posts/2026-04-02.md": "39054afd84310fb365b21d3dd84b7b78fd85acfe7f2550e87a66ebef912209de",
     "posts/2026-04-04-16-50.md": "6e9c498236e33a7642b4aeb8a74c5682037a9aed05f07fb1f1d3614b457f3724",
     "posts/2026-04-04.md": "c0cfd81f809b1e5fe896476172324606120a8d0add649af81db250f091f9a830",
@@ -48,16 +48,16 @@
     "posts/Vylet Pony - Gonarch's Lair (the whole mixtape).md": "4d602f979975bc77a6bc7041385a1dddf076379391debd15264784acc4826653",
     "pages/roadmap.md": "0265d17a72a67f674054daeaf62109376ecb3331953f94537c359eac2d5f73c7",
     "pages/me and my site.md": "f5315554d8675414fc2613704b62c55700a1c6c004336db0fd7cd738264c9de9",
-    "media/navigation.md": "8e545613a0aa762caa7b8c35cb6ddb22d00af1a903b2cb9f63be4eb3cd4c5861",
     "posts/cyberlucifolium.md": "27cd22db1ad2b71658e96ce4f64e103e126a9a0be6ff90d84b49a3f209f61fe1",
     "posts/parksville.md": "4fac290ba38b7ab6e4f79b04f0f28211fc2d80aaa87c79f6bb7cd2220b71ad54",
-    "posts/the first kaitwillows album (2012).md": "98be0cf4dd157d3e2e1bf32ed852c8e5d438356a9d7819f46af5df5a26489da4",
-    "posts/2026-06-01-11-25.md": "b1035d14cbb193345bcf749cecf10e81f6e0d9a488f0f3b7303fbdf15e6748bc",
+    "posts/the first kaitwillows album (2012).md": "f48d548e1ab01f9f12f03ce9d34e3b164522b479e3111cdd4eb09922261025a6",
+    "posts/2026-06-01-11-25.md": "4724439cc16a54feb1e161dded68102e4c1a70a7707f4a3077869f32933f2c3d",
     "posts/2026-06-01-23-00.md": "4a9e0b7c970ea7fd6813c80cb5aee81697f3a4f0b780d986bef5c6df70c0e87d",
     "posts/2026-06-02-21-28.md": "14adc8af79ef5177d98caf8acceccd4274901767bcc8cf8d35b77ae30c013e79",
     "posts/2026-06-02-21-54.md": "cddcb2523a5e80de566890acd0b10c4237c2861181b13c41fed612316897dbcc",
     "posts/Distant Motions - Northern Winds.md": "b72d4fdfa94e143c765ba9d9ee4be93b1dcd8575e8e2a202cc9bc7b1019a2e38",
     "posts/2026-06-04-13-43.md": "e1aeecc6bf6eb0aeb2cd5814f994ea727d25d6eabb67ea658b7e670be63048b4",
-    "posts/2026-06-04-17-50.md": "3939102d716a6f4712b21baf4793939154db6a08b4b250b0e29d0db9a33ac254"
+    "posts/2026-06-04-17-50.md": "34c4db259f03b4f0db17faaa2fe85846e73eaf9479cfd865b4e1e9852b52ed28",
+    "posts/navigation.md": "abfda9ee2370648095d81a221e460b84f96145458daf775941b969e5ee2e2f27"
   }
 }

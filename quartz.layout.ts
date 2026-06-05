@@ -10,12 +10,11 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      "say hi": "/pages/contact",
+      "say hi": "/pages/me-and-my-site",
       "bandcamp": "https://kaitwillows.bandcamp.com/",
       "youtube": "https://www.youtube.com/@kaitwillows/",
       "github": "https://github.com/kaitwillows/",
       "beatleader": "https://beatleader.com/u/76561198865156064/",
-      "stream": "/pages/stream",
     },
   }),
 }

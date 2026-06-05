@@ -1,6 +1,6 @@
 ---
 created: 2026-05-27T16:06
-updated: 2026-06-04T17:59
+updated: 2026-06-04T19:12
 title: the first kaitwillows album
 tags:
   - posts
@@ -28,13 +28,12 @@ idk, i want to fill out a tracklist, these might be just mostly title ideas to g
 
 
 - tracklist (tentative)
-	- ユミ (whatdoyouthinkofme)
+	- ユミ (youthinkofme) - #song/yuMi 
 	- 2012
 	- daisies *(30 remake)*
 	- golden fish
-
 	- sickofmyself
-	- crawlspace
+	- crawlspace - #song/crawlspace 
 	- 2027
 
 - various ideas idk

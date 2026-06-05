@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "028a494e63f827e9",
+        "id": "7570444668fae336",
         "type": "tabs",
         "children": [
           {
-            "id": "df764bdc75882ccf",
+            "id": "a62a1a965d5d48cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:album/debut",
+                "query": "tag:#song/crawlspace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,13 +181,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "df764bdc75882ccf",
+  "active": "a62a1a965d5d48cd",
   "lastOpenFiles": [
-    "posts/2026-06-04-13-43.md",
-    "pages/roadmap.md",
     "media/2026-06-04 yu mi v1 d1.mp3",
+    "index.md",
+    "posts/navigation.md",
+    "templates/default.md",
+    "posts/2026-06-01-11-25.md",
     "posts/the first kaitwillows album (2012).md",
     "posts/2026-06-04-17-50.md",
+    "posts/2026-06-01-23-00.md",
+    "posts/2026-06-02-21-28.md",
+    "posts/2026-06-02-21-54.md",
+    "posts/2026-06-04-13-43.md",
+    "pages/roadmap.md",
     "media/2026-06-04 something i cant remember.mp3",
     "tags/album/2012.md",
     "tags/album",
@@ -195,17 +202,12 @@
     "posts/Distant Motions - Northern Winds.md",
     "media/Pasted image 20260603173407.png",
     "media/Pasted image 20260603172958.png",
-    "posts/2026-06-02-21-54.md",
     "media/2026-06-02 idxinthenameoffriendship transcribe attempt 1.mp3",
-    "posts/2026-06-02-21-28.md",
     "media/Pasted image 20260602213241.png",
     "media/Pasted image 20260602213139.png",
     "media/Pasted image 20260602213054.png",
-    "posts/2026-06-01-23-00.md",
-    "posts/2026-06-01-11-25.md",
     "posts/cyberlucifolium.md",
     "media/2026-06-01 crawlspace ver1 demo1.mp3",
-    "index.md",
     "test'.md",
     "posts/parksville.md",
     "media/Pasted image 20260527162253.png",
@@ -219,14 +221,12 @@
     "media/2025-10-01_parksville/smaller cover.jpg",
     "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_Roughness.png",
     "posts/2026-04-04.md",
-    "media/navigation.md",
     "posts/2026-04-23-01-11.md",
     "posts/2026-04-18-16-37-25.md",
     "posts/2026-04-02.md",
     "pages/me and my site.md",
     "pages/tagsis/index.md",
     "posts/2026-04-25-22-43.md",
-    "posts/2026-04-27-17-18.md",
-    "pages/site.md"
+    "posts/2026-04-27-17-18.md"
   ]
 }
